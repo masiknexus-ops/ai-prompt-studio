@@ -19,3 +19,9 @@ Produkční build: `npm run build`.
 - Kopírování promptu a lokální historie (localStorage)
 
 Aplikace nevolá AI API; výsledek sestavuje deterministicky z nastavení. Pro další verzi je plánována AI optimalizace.
+
+## Online verze
+
+GitHub Pages: https://masiknexus-ops.github.io/ai-prompt-studio/
+
+Automatické nasazení probíhá prostřednictvím GitHub Actions po změnách v hlavní větvi.
